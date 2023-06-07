@@ -4,7 +4,7 @@
   "description": "An angular component for Angular 9 - 16 for creating 1-D barcodes based on Lindell's JsBarcode",
   "repository": {
     "type": "git",
-    "url": "https://github.com/efgiese/ngx-barcode6"
+    "url": "https://github.com/elevatedsignals/ngx-barcode6"
   },
   "author": {
     "name": "Edgar Giese",
@@ -25,7 +25,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/efgiese/ngx-barcode6/issues"
+    "url": "https://github.com/elevatedsignals/ngx-barcode6/issues"
   },
   "scripts": {
     "ng": "ng",
